@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Pong Game.unity
+    guid: 63ee70ba584e90a47a13bb4e963eb739
+  - enabled: 1
+    path: Assets/Scenes/Game Over.unity
+    guid: 43a8411ff0d35034885fd99954ec8f7a
+  - enabled: 1
+    path: "Assets/Scenes/Sett\u0131ngs.unity"
+    guid: a9bf3af587c1a92408e855630330ee67
+  - enabled: 1
+    path: Assets/Scenes/howtoplay.unity
+    guid: fa3b6a6f01c59674b8927f34d5e2e197
+  m_configObjects: {}
